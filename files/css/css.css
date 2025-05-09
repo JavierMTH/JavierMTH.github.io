@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .encabezado {
+    height: 14vh;
+    background-color: #96fd9b;
+    color: white;
+  }
+
+  .contenido {
+    flex: 1;
+  }
+
+  iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
